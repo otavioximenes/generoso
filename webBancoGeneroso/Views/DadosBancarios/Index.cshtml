@@ -1,0 +1,78 @@
+﻿@model IEnumerable<webBancoGeneroso.Models.DadosBancarios>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Cadastros de Dados Bancários</h1>
+
+<div style="float: right;">
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Novo Dado Bancário</a>
+    </p>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <span>Nome do Banco</span>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Agencia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Numero)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CNPJ)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.RazaoSocial)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Count() <= 0)
+        {
+            <tr>
+                <td>
+                    <span>Nenhum item cadastrado.</span>
+                </td>
+            </tr>
+        }
+        else
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>                       
+                        @Html.DisplayFor(modelItem => item.TiposBancos.Codigo)
+                        <span> - </span>
+                        @Html.DisplayFor(modelItem => item.TiposBancos.Nome)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Agencia)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Numero)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CNPJ)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.RazaoSocial)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-light">Editar</a>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Detalhar</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Excluir</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

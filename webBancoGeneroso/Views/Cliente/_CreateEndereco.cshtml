@@ -1,0 +1,59 @@
+﻿@model webBancoGeneroso.Models.ClienteModel
+
+<div class="row">
+    <div class="col-md-12">
+        @*<form asp-action="CreateEndereco">*@
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        @*<input type="hidden" asp-for="endereco.Id" />
+        <input type="hidden" asp-for="endereco.ClienteId" />*@
+
+        <div class="form-row">
+            <div class="form-group col-md-10">
+                <label asp-for="endereco.Logradouro" class="control-label"></label>
+                <input asp-for="endereco.Logradouro" class="form-control" />
+                <span asp-validation-for="endereco.Logradouro" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-2">
+                <label asp-for="endereco.Numero" class="control-label"></label>
+                <input asp-for="endereco.Numero" class="form-control" />
+                <span asp-validation-for="endereco.Numero" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-group col-md-12">
+                <label asp-for="endereco.Complemento" class="control-label"></label>
+                <input asp-for="endereco.Complemento" class="form-control" />
+                <span asp-validation-for="endereco.Complemento" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-group col-md-2">
+                <label asp-for="endereco.Cep" class="control-label"></label>
+                <input asp-for="endereco.Cep" class="form-control" />
+                <span asp-validation-for="endereco.Cep" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-3">
+                <label asp-for="endereco.Bairro" class="control-label"></label>
+                <input asp-for="endereco.Bairro" class="form-control" />
+                <span asp-validation-for="endereco.Bairro" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="endereco.Cidade" class="control-label"></label>
+                <input asp-for="endereco.Cidade" class="form-control" />
+                <span asp-validation-for="endereco.Cidade" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-3">
+                <label asp-for="endereco.Estado" class="control-label"></label>
+                <input asp-for="endereco.Estado" class="form-control" />
+                <span asp-validation-for="endereco.Estado" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-md-12 col-sm-12" style="padding-top:20px;">
+            <div style="float:right;">
+                <a onclick="Continuar('btnContato')" class="btn btn-outline-info"><< Voltar</a>
+            </div>
+        </div>
+        @*        </form>*@
+    </div>
+</div>
+

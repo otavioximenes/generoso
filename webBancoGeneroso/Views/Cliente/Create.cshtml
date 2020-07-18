@@ -1,0 +1,75 @@
+﻿@model ClienteModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+    <link href="~/css/StyleSheetAbas.css" rel="stylesheet" />
+
+
+<h1>Cadastrar Cliente</h1>
+
+
+<div class="w3-container w3-border">
+    <div class="w3-bar w3-blue-gray">
+        <button name="btnCliente" class="w3-bar-item w3-button tablink w3-orange" onclick="openAba(event,'Cliente')">Cliente</button>
+        <button name="btnContato" class="w3-bar-item w3-button tablink" onclick="openAba(event,'Contato')">Contato</button>
+        <button name="btnEndereco" class="w3-bar-item w3-button tablink" onclick="openAba(event,'Endereco')">Endereço</button>
+    </div>
+
+    <form asp-action="Create">
+        <div id="Cliente" class="Aba">
+            <partial name="_CreateCliente" />
+        </div>
+
+        <div id="Contato" class="Aba" style="display:none">
+            <partial name="_CreateContato" />
+        </div>
+
+        <div id="Endereco" class="Aba" style="display:none">
+            <partial name="_CreateEndereco" />
+        </div>
+
+        <div>
+            <a asp-action="Index" class="btn btn-light">Listagem</a>
+            <input type="submit" value="Salvar" class="btn btn-primary" />
+        </div>
+    </form>
+</div>
+
+
+@section Scripts {
+
+    <script>
+        function openAba(evt, abaName) { 
+            var i, x, tablinks;
+            x = document.getElementsByClassName("Aba");
+            for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";
+            }
+            tablinks = document.getElementsByClassName("tablink");
+            for (i = 0; i < x.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" w3-orange", "");
+
+                var nomeTab = tablinks[i].innerText;
+                nomeTab = nomeTab.replace("ç", "c");
+
+                if (nomeTab == abaName) {
+                    tablinks[i].className += " w3-orange";
+                }
+            }
+            document.getElementById(abaName).style.display = "block";
+
+            //if (evt.isTrusted) {
+            //    evt.currentTarget.className += " w3-orange";
+            //}
+            //else {                
+            //    $('button[name="' + abaName + '"]').addClass(" w3-orange");
+            //}
+        }
+
+        function Continuar(aba) { 
+            $('button[name="' + aba + '"]').click();
+        }
+    </script>
+}

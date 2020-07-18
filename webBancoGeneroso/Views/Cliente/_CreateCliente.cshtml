@@ -1,0 +1,101 @@
+﻿@model webBancoGeneroso.Models.ClienteModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        @*<form asp-action="Create">*@
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @*<input type="hidden" asp-for="cliente.Id" />*@
+
+            <div class="form-row">
+                <div class="form-group col-md-4">
+                    <label asp-for="cliente.TipoPessoa" class="control-label"></label> <br />
+                    @*<select asp-for="TipoPessoa" class="form-control" asp-items="ViewBag.TiposPessoas"></select>*@
+                    <input type="radio" value="1" asp-for="cliente.TipoPessoa" checked /> Pessoa Física <br />
+                    <input type="radio" value="2" asp-for="cliente.TipoPessoa"  /> Pessoa Jurídica                    
+                 </div>
+            </div>
+
+
+            <div class="form-row">
+                <div class="col-md-4 col-sm-4 form-group">
+                    <label asp-for="cliente.Nome" class="control-label"></label>
+                    <input asp-for="cliente.Nome" class="form-control" />
+                    <span asp-validation-for="cliente.Nome" class="text-danger"></span>
+                </div>
+                <div class="col-md-3 col-sm-3 form-group">
+                    <label asp-for="cliente.RG" class="control-label"></label>
+                    <input asp-for="cliente.RG" class="form-control" />
+                    <span asp-validation-for="cliente.RG" class="text-danger"></span>
+                </div>
+                <div class="col-md-3 col-sm-3 form-group">
+                    <label asp-for="cliente.CPF" class="control-label"></label>
+                    <input asp-for="cliente.CPF" class="form-control" />
+                    <span asp-validation-for="cliente.CPF" class="text-danger"></span>
+                </div>
+                <div class="col-md-2 col-sm-2 form-group">
+                    <label asp-for="cliente.Email" class="control-label"></label>
+                    <input asp-for="cliente.Email" class="form-control" />
+                    <span asp-validation-for="cliente.Email" class="text-danger"></span>
+                </div>
+
+            </div>
+
+            <div class="form-row">
+                <div class="col-md-3 col-sm-3 form-group">
+                    <label asp-for="cliente.DataNascimento" class="control-label"></label>
+                    <input asp-for="cliente.DataNascimento" class="form-control" />
+                    <span asp-validation-for="cliente.DataNascimento" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-3 col-sm-3 form-group">
+                    <label asp-for="cliente.Sexo" class="control-label"></label>
+                    <input asp-for="cliente.Sexo" class="form-control" />
+                    <span asp-validation-for="cliente.Sexo" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-3 col-sm-3 form-group">
+                    <label asp-for="cliente.Telefone" class="control-label"></label>
+                    <input asp-for="cliente.Telefone" class="form-control" />
+                    <span asp-validation-for="cliente.Telefone" class="text-danger"></span>
+                </div>
+                <div class="col-md-3 col-sm-3 form-group">
+                    <label asp-for="cliente.Celular" class="control-label"></label>
+                    <input asp-for="cliente.Celular" class="form-control" />
+                    <span asp-validation-for="cliente.Celular" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-1 col-sm-1 form-check">
+                    <label class="form-check-label">
+                        <label asp-for="cliente.Situacao" class="control-label"></label>
+                        <br /><input class="form-check-input" asp-for="cliente.Situacao" style="margin-left:5px;" />
+                    </label>
+                </div>
+                <div class="col-md-11 col-sm-11 form-group">
+                    <label asp-for="cliente.Observacoes" class="control-label"></label>
+                    <textarea class="form-control" rows="3" type="text" asp-for="cliente.Observacoes"></textarea>
+                    <span asp-validation-for="cliente.Observacoes" class="text-danger"></span>
+                </div>
+            </div>
+
+
+            <div class="col-md-12 col-sm-12" style="padding-top:20px;">
+                <div style="float:right;">
+                    <a value="Continuar" class="btn btn-info" onclick="Continuar('btnContato')" style="color:white;">
+                    Próximo >></a>
+                </div>
+            </div>
+        @*</form>*@
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

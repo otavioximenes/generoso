@@ -1,0 +1,77 @@
+﻿@model webBancoGeneroso.Models.UsuarioSistema
+@{
+    List<GruposAcesso> lst = TempData["lstGrupoAcesso"] != null ?
+                           (List<GruposAcesso>)TempData["lstGrupoAcesso"] :
+                           null;
+
+    List<GruposAcesso> lstCheck = TempData["lstGrupoAcessoDetales"] != null ?
+                           (List<GruposAcesso>)TempData["lstGrupoAcessoDetales"] :
+                           null;
+}
+
+<div class="row">
+    <div class="col-md-5">
+        <hr />
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <dl class="row">
+            <dt class="col-sm-2">
+                <span>Nome</span>
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Nome)
+            </dd>
+            <dt class="col-sm-2">
+                <span>Email</span>
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+            <dt class="col-sm-2">
+                <span>Telefone</span>
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Telefone)
+            </dd> 
+            <dt class="col-sm-2">
+                <span>Imagem</span>
+            </dt>
+            <dd class="col-sm-10">
+                @if (!string.IsNullOrEmpty(Model.PathPhoto))
+                {
+                    string src = string.Concat("~/Arquivos/Fotos/Recebidos/", Model.PathPhoto);
+                    <img src="src" width="40" height="40" />
+                }
+                else
+                {
+                    <img src="~/img/SemLogin.jpg" width="40" height="40" />
+                }
+            </dd>
+        </dl>
+    </div>
+
+    <div class="col-md-5">
+        <hr />
+        <div class="form-group">
+            <h4>Grupo de Acesso</h4>
+            @if (lst != null)
+            {
+                @foreach (var item in lst)
+                {
+                    <div style="padding-left:5px;">
+
+                        @if (lstCheck != null)
+                        {
+                            <input type="checkbox" name="chk_@item.Id" checked="@(lstCheck.Where(x => x.Id == item.Id).Count() > 0)" />
+                        }
+                        else
+                        {
+                            <input type="checkbox" name="chk_@item.Id" />
+                        }
+
+                        <label>@item.PageAcesso</label>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div> 

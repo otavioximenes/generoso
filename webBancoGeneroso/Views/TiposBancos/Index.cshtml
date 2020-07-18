@@ -1,0 +1,123 @@
+﻿@model IEnumerable<webBancoGeneroso.Models.TiposBancos>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@*
+        @section styles {
+            <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css" />
+        }
+
+        @section scripts {
+            <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+        <script type="text/javascript" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+
+                <script>
+                    function edititem(event) {
+                        console.log('edit');
+                        console.log(event);
+
+                        //var col_index = $(this).index('tr:eq(' + event + ') td');
+
+                        var element = $('#ItemsTable tr')[event - 1];
+                        console.log(element);
+
+                        ////var findelement = element.children());
+                        ////console.log(findelement);
+                    }
+
+                    $(function () {
+                        $('#ItemsTable').DataTable({
+                            "ajax": {
+                                "url": "/api/TypeBankItems",
+                                "method": "POST"
+                            },
+                            "columns": [
+                                { "data": "codigo" },
+                                { "data": "nome" },
+                                {
+                                    data: null,
+                                    className: "center",
+                                    defaultContent: '<a class="btn btn-light" onclick="edititem($(this).parent().index())"><span class="glyphicon glyphicon-pencil"></span></a> <a alt="Detalhar" class="btn btn-info"><span class="glyphicon glyphicon-info-sign"></span></a> <a alt="Deletar" class="btn btn-danger"><span class="glyphicon glyphicon-trash"></span></ion-icon></a>'
+                                }
+                            ],
+                            "processing": true,
+                            "serverSide": true,
+                            "paging": true,
+                            "ordering": true,
+                            "pagingType": "full_numbers",
+                            "pageLength": 10
+                        });
+
+                    });
+                </script>
+    }
+
+    <table id="ItemsTable" class="table table-bordered table-hover responsive" style="width:100%">
+    <thead style="background-color:#3D7CB2;color:#fff; font-weight:bold;">
+        <tr>
+            <th>Código</th>
+            <th>Id</th>
+<th>Nome</th>
+<th></th>
+        </tr>
+    </thead>
+</table>
+*@
+<h1>Cadastro de Bancos</h1>
+
+
+<div style="float: right;">
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Novo Banco</a>
+    </p>
+</div>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <span>Nome do Banco</span>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Codigo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th> 
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @if (Model.Count() <= 0)
+        {
+            <tr>
+                <td>
+                    <span>Nenhum item cadastrado.</span>
+                </td>
+            </tr>
+
+        }
+        else
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td width="30%">
+                        @Html.DisplayFor(modelItem => item.Codigo)
+                    </td>
+                    <td width="40%">
+                        @Html.DisplayFor(modelItem => item.Nome)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-light">Editar</a>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Detalhar</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Excluir</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

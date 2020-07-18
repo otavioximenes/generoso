@@ -1,0 +1,95 @@
+﻿@model webBancoGeneroso.Models.UsuarioSistema
+
+@{
+    ViewData["Title"] = "Details";
+    List<GruposAcesso> lst = TempData["lstGrupoAcesso"] != null ? 
+                            (List<GruposAcesso>)TempData["lstGrupoAcesso"] : 
+                            null;
+}
+
+
+<form asp-action="Create" enctype="multipart/form-data">
+    <div class="row">
+        <div class="col-md-5">
+            <hr />
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Nome"></label>
+                <input asp-for="Nome" class="form-control" />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Telefone"></label>
+                <input asp-for="Telefone" class="form-control" />
+                <span asp-validation-for="Telefone" class="text-danger"></span>
+            </div>
+            <div class="custom-file">
+                <label asp-for="PathPhoto"></label>
+                <input asp-for="PathPhoto" class="form-control custom-file-input" id="photopath" />
+                <input class="form-control custom-file-input" type="file" name="photouser" id="photouserid" accept="image/png, image/jpeg" />
+                <label class="custom-file-label" id="lblPhoto">Click para incluir uma Foto</label>
+            </div>
+        </div>
+
+        <div class="col-md-5">
+            <div class="form-group">
+                <h4>Grupo de Acesso</h4>
+                @if (lst != null)
+                {
+                    @foreach (var item in lst)
+                    {
+                        <div style="padding-left:5px;">
+                            <input type="checkbox" name="chk_@item.Id"/>
+                            <label>@item.PageAcesso</label>
+                        </div>
+                    }
+                }
+            </div>
+        </div>
+    </div> 
+
+    <div style="float:right;width:100%">
+        <input type="submit" value="Salvar" class="btn btn-primary" />
+        <a asp-action="Index" asp-controller="Usuario" class="btn btn-light">Voltar</a>
+    </div>
+</form>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        $(document).ready(function () {
+            $('#lblPhoto').click(function () {
+                $('#photouserid').click();
+                console.log($(this));
+            });
+
+            const selectElement = document.querySelector('#photouserid');
+
+            selectElement.addEventListener('change', (event) => {
+                const result = document.querySelector('#lblPhoto');
+                result.textContent = event.target.value;
+            });
+
+            $("#photouser").change(function () {
+                $('#photopath').val($(this));
+                console.log($(this));
+            });
+
+            $('#photouserid').change(function () {
+                console.log($(this));
+            });
+
+        });
+    </script>
+}

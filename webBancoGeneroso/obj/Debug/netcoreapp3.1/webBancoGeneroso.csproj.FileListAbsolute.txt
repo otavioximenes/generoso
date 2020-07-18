@@ -1,0 +1,488 @@
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\appsettings.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\webBancoGeneroso.StaticWebAssets.xml
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\webBancoGeneroso.exe
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\webBancoGeneroso.deps.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\webBancoGeneroso.runtimeconfig.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\webBancoGeneroso.runtimeconfig.dev.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\webBancoGeneroso.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\webBancoGeneroso.pdb
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\webBancoGeneroso.Views.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\webBancoGeneroso.Views.pdb
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\webBancoGeneroso.csprojAssemblyReference.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\webBancoGeneroso.AssemblyInfoInputs.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\webBancoGeneroso.AssemblyInfo.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\webBancoGeneroso.RazorAssemblyInfo.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\webBancoGeneroso.RazorAssemblyInfo.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\webBancoGeneroso.TagHelpers.input.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\webBancoGeneroso.TagHelpers.output.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\webBancoGeneroso.RazorCoreGenerate.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LayoutLogin.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\webBancoGeneroso.RazorTargetAssemblyInfo.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\webBancoGeneroso.RazorTargetAssemblyInfo.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\webBancoGeneroso.Views.pdb
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\webBancoGeneroso.csproj.CopyComplete
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\staticwebassets\webBancoGeneroso.StaticWebAssets.Manifest.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\staticwebassets\webBancoGeneroso.StaticWebAssets.xml
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\webBancoGeneroso.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\webBancoGeneroso.pdb
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\webBancoGeneroso.genruntimeconfig.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\TiposBancos\Create.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\TiposBancos\Delete.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\TiposBancos\Details.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\TiposBancos\Edit.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\TiposBancos\Index.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Contatos\Create.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Contatos\Delete.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Contatos\Details.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Contatos\Edit.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Contatos\Index.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\DadosBancarios\Create.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\DadosBancarios\Delete.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\DadosBancarios\Details.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\DadosBancarios\Edit.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\DadosBancarios\Index.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Enderecoes\Create.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Enderecoes\Delete.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Enderecoes\Details.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Enderecoes\Edit.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Enderecoes\Index.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Minutas\Create.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Minutas\Delete.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Minutas\Details.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Minutas\Edit.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Minutas\Index.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Details.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Delete.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Create.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\_FormUsuarioPartial.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Delete.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\_CreateCliente.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\_CreateContato.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\_CreateEndereco.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\package-lock.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout - Copy.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MessagePartial.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\webBancoGeneroso.csproj.CoreCompileInputs.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\webBancoGeneroso.MvcApplicationPartsAssemblyInfo.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso\obj\Debug\netcoreapp3.1\webBancoGeneroso.MvcApplicationPartsAssemblyInfo.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso\bin\Debug\netcoreapp3.1\libman.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\appsettings.Production.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\libman.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\package-lock.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\webBancoGeneroso.StaticWebAssets.xml
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\appsettings.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\webBancoGeneroso.exe
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\webBancoGeneroso.deps.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\webBancoGeneroso.runtimeconfig.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\webBancoGeneroso.runtimeconfig.dev.json
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\webBancoGeneroso.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\webBancoGeneroso.pdb
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\webBancoGeneroso.Views.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\webBancoGeneroso.Views.pdb
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\webBancoGeneroso.csprojAssemblyReference.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\webBancoGeneroso.AssemblyInfoInputs.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\webBancoGeneroso.AssemblyInfo.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\webBancoGeneroso.csproj.CoreCompileInputs.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\webBancoGeneroso.MvcApplicationPartsAssemblyInfo.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\webBancoGeneroso.MvcApplicationPartsAssemblyInfo.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\webBancoGeneroso.RazorAssemblyInfo.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\webBancoGeneroso.RazorAssemblyInfo.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\webBancoGeneroso.TagHelpers.input.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\webBancoGeneroso.TagHelpers.output.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\webBancoGeneroso.RazorCoreGenerate.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Delete.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\_CreateCliente.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\_CreateContato.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\_CreateEndereco.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Contatos\Create.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Contatos\Delete.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Contatos\Details.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Contatos\Edit.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Contatos\Index.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\DadosBancarios\Create.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\DadosBancarios\Delete.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\DadosBancarios\Details.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\DadosBancarios\Edit.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\DadosBancarios\Index.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Enderecoes\Create.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Enderecoes\Delete.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Enderecoes\Details.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Enderecoes\Edit.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Enderecoes\Index.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Minutas\Create.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Minutas\Delete.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Minutas\Details.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Minutas\Edit.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Minutas\Index.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LayoutLogin.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout - Copy.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MessagePartial.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\TiposBancos\Create.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\TiposBancos\Delete.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\TiposBancos\Details.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\TiposBancos\Edit.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\TiposBancos\Index.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Create.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Delete.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Details.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Index.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\_FormUsuarioPartial.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\webBancoGeneroso.RazorTargetAssemblyInfo.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\webBancoGeneroso.RazorTargetAssemblyInfo.cs
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\webBancoGeneroso.Views.pdb
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\webBancoGeneroso.csproj.CopyComplete
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\staticwebassets\webBancoGeneroso.StaticWebAssets.Manifest.cache
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\staticwebassets\webBancoGeneroso.StaticWebAssets.xml
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\webBancoGeneroso.dll
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\webBancoGeneroso.pdb
+C:\_workspace\Consultoria CRS\webBancoGeneroso - editado\obj\Debug\netcoreapp3.1\webBancoGeneroso.genruntimeconfig.cache

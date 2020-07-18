@@ -1,0 +1,47 @@
+﻿@model webBancoGeneroso.Models.ClienteModel
+
+<div class="row">
+    <div class="col-md-12">
+        @* <form asp-action="CreateContato">*@
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        @*<input type="hidden" asp-for="contato.Id" />
+        <input type="hidden" asp-for="contato.ClienteId" />*@
+
+        <div class="form-row">
+            <div class="form-group col-md-12">
+                <label asp-for="contato.Nome" class="control-label"></label>
+                <input asp-for="contato.Nome" class="form-control" />
+                <span asp-validation-for="contato.Nome" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-group col-md-4">
+                <label asp-for="contato.Email" class="control-label"></label>
+                <input asp-for="contato.Email" class="form-control" />
+                <span asp-validation-for="contato.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="contato.Telefone" class="control-label"></label>
+                <input asp-for="contato.Telefone" class="form-control" />
+                <span asp-validation-for="contato.Telefone" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="contato.Celular" class="control-label"></label>
+                <input asp-for="contato.Celular" class="form-control" />
+                <span asp-validation-for="contato.Celular" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-md-12 col-sm-12" style="padding-top:20px;">
+            <div style="float:right;">
+                <a onclick="Continuar('btnCliente')" class="btn btn-outline-info"><< Voltar</a>
+
+                <a class="btn btn-info" onclick="Continuar('btnEndereco')" style="color:white;">Próximo >></a>
+            </div>
+        </div>
+        @*</form>*@
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,149 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+    list-style: none;
+    border: 0;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+divOverflow {
+    overflow-x: auto;
+}
+
+.menu {
+    /*    display: -ms-flexbox;*/
+    color: #333;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    border: 0;
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+}
+
+.menu li a {
+        color: #333;
+        text-decoration: none; 
+        display: block;
+        padding-right: 50px;
+        list-style: none;
+         
+        transition: all 0.5s ease;
+        margin-top: 1rem;
+        left: 0; 
+    }
+
+            .menu li a:hover {
+                background: #4682B4;
+                color: #fff;
+                -moz-box-shadow: 0 3px 2px 0 #CCC;
+                -webkit-box-shadow: 0 3px 2px 0 #ccc;
+                text-shadow: 0px 0px 5px #fff;
+
+                visibility: visible;
+                opacity: 1;
+                display: block;
+            }
+
+    .menu li ul {
+        position: absolute;
+        text-decoration: none;
+        white-space: normal;
+        text-align: center;
+        top: 40px;
+        left: -20px;
+        background-color: #fff;
+        display: none;
+        width: 80%;
+    }
+
+        .menu li:hover ul, .menu li.over ul {
+            display: block;
+        }
+
+    .menu li ul li {
+        clear: both;
+        border-bottom: 1px solid #fff;
+        display: block;
+        width: 100%;
+        margin-left: -10px;
+    }
+
+     
+   

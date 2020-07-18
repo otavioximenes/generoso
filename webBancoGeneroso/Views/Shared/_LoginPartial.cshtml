@@ -1,0 +1,31 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager 
+
+    <ul class="navbar-nav">
+        @if (SignInManager.IsSignedIn(User))
+        { 
+                          
+        <li class="nav-item" style="padding:8px;">
+            <label class="text-dark" title="Usuário">Olá @User.Identity.Name !</label>
+            &nbsp;&nbsp;
+            @if (TempData.Peek("srcPhoto") != null)
+            {
+                <img src="@TempData.Peek("srcPhoto")" width="40" height="40" />
+            }
+            else
+            { 
+                <img src="~/img/SemLogin.jpg" width="40" height="40" />
+            }
+
+            &nbsp;&nbsp;
+        </li>
+            <li class="nav-item">
+                <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" 
+                      asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                    <button type="submit" class="nav-link btn btn-link text-dark" 
+                            style="padding-top:15px!important;">Sair</button>
+                </form>
+            </li>
+        }
+    </ul>

@@ -1,0 +1,124 @@
+﻿@model IEnumerable<webBancoGeneroso.Models.Clientes>
+
+@{
+    ViewData["Title"] = "Index";
+
+}
+<script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#tbCliente').DataTable();
+        });
+    </script>
+}
+
+
+<h1>Cadastro de Clientes</h1>
+
+<div style="float: right;">
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Novo Cliente</a>
+    </p>
+</div>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RG)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CPF)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataNascimento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Celular)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Situacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Observacoes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoPessoa)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @if (Model.Count() <= 0)
+        {
+            <tr>
+                <td>
+                    <span>Nenhum item cadastrado.</span>
+                </td>
+            </tr>
+        }
+        else
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nome)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.RG)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CPF)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DataNascimento)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Telefone)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Celular)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Situacao)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Observacoes)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TipoPessoa)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-light">Editar</a>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Detalhar</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Excluir</a>
+                    </td>
+                </tr>
+            }
+        }
+
+    </tbody>
+</table>
